@@ -103,6 +103,8 @@ http://localhost:8501/
 | 이동평균의 **앞부분 제외** | 창이 다 차지 않은 구간은 일부 계절만 반영해 편향됨 |
 <img width="1800" height="720" alt="01_daily_temperature_moving_average" src="https://github.com/user-attachments/assets/f4540f05-1fb8-4195-bfc2-a4c1380e5e1c" />
 
+<img width="1650" height="690" alt="02_annual_mean_trend" src="https://github.com/user-attachments/assets/93091a26-9e5a-4b62-b2e6-34a580766932" />
+
 ## 6. 빠른 시작
 
 **요구 사항:** Python 3.10 이상, 인터넷 연결 (데이터 수집 시)

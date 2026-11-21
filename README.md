@@ -164,6 +164,8 @@ seoul-temperature-analysis/
 ├── requirements.txt
 └── README.md
 ```
+<img width="2323" height="2017" alt="시각화 증명사진 1" src="https://github.com/user-attachments/assets/c87c8bd5-7fa5-4f8e-a54e-583546dc590d" />
+<img width="1872" height="1155" alt="시각화 증명사진 2" src="https://github.com/user-attachments/assets/b2179ae4-446e-4b7e-bcf6-54feea6f8418" />
 
 ## 9. 한계
 

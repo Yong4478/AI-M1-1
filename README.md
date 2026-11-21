@@ -101,6 +101,7 @@ http://localhost:8501/
 | ERA5 **단일 모델**로 전 기간 수집 | 기본값은 2017년 이후 고해상도 모델이 섞여 연도 간 비교가 왜곡됨 |
 | 두 비교 구간 사이에 **5년 간격** | 경계 연도가 결과를 좌우하지 않도록 함 |
 | 이동평균의 **앞부분 제외** | 창이 다 차지 않은 구간은 일부 계절만 반영해 편향됨 |
+<img width="1800" height="720" alt="01_daily_temperature_moving_average" src="https://github.com/user-attachments/assets/f4540f05-1fb8-4195-bfc2-a4c1380e5e1c" />
 
 ## 6. 빠른 시작
 

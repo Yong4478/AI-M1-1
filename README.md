@@ -7,7 +7,7 @@
 ![Data](https://img.shields.io/badge/Data-ERA5%20%7C%20CC%20BY%204.0-2F6DB5)
 
 > 서울의 일별 기온 25년치(9,000여 일)를 **추세 · 계절성 · 노이즈**로 분해해, "서울은 정말 더워졌는가?"를 데이터로 검증하는 시계열 분석 프로젝트입니다.
-
+http://localhost:8501/
 📄 **분석 보고서 전문: [REPORT.md](REPORT.md)**
 
 ---

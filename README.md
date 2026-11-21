@@ -104,6 +104,11 @@ http://localhost:8501/
 <img width="1800" height="720" alt="01_daily_temperature_moving_average" src="https://github.com/user-attachments/assets/f4540f05-1fb8-4195-bfc2-a4c1380e5e1c" />
 
 <img width="1650" height="690" alt="02_annual_mean_trend" src="https://github.com/user-attachments/assets/93091a26-9e5a-4b62-b2e6-34a580766932" />
+<img width="1800" height="690" alt="07_baseline_forecast" src="https://github.com/user-attachments/assets/4ff8c5bd-3f00-40c5-b35d-cb16ef20d9b4" />
+<img width="1800" height="1275" alt="06_decomposition" src="https://github.com/user-attachments/assets/c2658c1e-9ade-4c50-b565-7726429399b4" />
+<img width="1950" height="690" alt="05_daily_change_volatility" src="https://github.com/user-attachments/assets/9312ed2d-0ba0-4943-a31c-0db9783c1cf8" />
+<img width="1650" height="690" alt="04_extreme_days_per_year" src="https://github.com/user-attachments/assets/922a8ccb-fd77-43be-9f68-8e6b791738ce" />
+<img width="1950" height="690" alt="03_monthly_period_comparison" src="https://github.com/user-attachments/assets/dea94aff-2f76-45ad-98bc-0b15b6e89be6" />
 
 ## 6. 빠른 시작
 
